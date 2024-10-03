@@ -1,10 +1,11 @@
-Dynamic Pricing System
+# Dynamic Pricing System
+
 Introduction
 The Dynamic Pricing System is designed to adjust product prices in real-time based on demand,
 supply, competitor prices, customer loyalty, and seasonal events. This system leverages AWS
 serverless technologies for scalability and cost-effectiveness.
 
-Architecture:
+# Architecture:
 
 AWS Lambda: Executes functions in response to events.
 AWS DynamoDB: Stores product, pricing, and customer data.
