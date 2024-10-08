@@ -5,6 +5,8 @@ The Dynamic Pricing System is designed to adjust product prices in real-time bas
 supply, competitor prices, customer loyalty, and seasonal events. This system leverages AWS
 serverless technologies for scalability and cost-effectiveness.
 
+We have attached our final paper to this github as well if you would like to read it!
+
 # Architecture:
 
 AWS Lambda: Executes functions in response to events.
