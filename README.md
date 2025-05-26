@@ -1,6 +1,6 @@
 # Serverless Dynamic Pricing
 
-A cloud-native dynamic pricing engine built with AWS Lambda, API Gateway, and DynamoDB. This project demonstrates how to implement a scalable, event-driven architecture that adjusts prices in real-time based on demand signals.
+A cloud-native dynamic pricing engine built with AWS Lambda, API Gateway, and DynamoDB. This project demonstrates how to implement a scalable, event-driven architecture that adjusts prices in real-time based on demand signals. Please have a look at our paper as we take a deeper dive into the topic.
 
 ## Features
 
