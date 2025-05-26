@@ -5,7 +5,6 @@ A cloud-native dynamic pricing engine built with AWS Lambda, API Gateway, and Dy
 ## Features
 
 - **Serverless Architecture**: Utilizes AWS Lambda functions for compute operations, reducing infrastructure management overhead.
-- **API Gateway Integration**: Provides RESTful API endpoints for interacting with the pricing engine.
 - **DynamoDB Storage**: Stores pricing data and demand metrics for quick retrieval and scalability.
 - **Real-Time Pricing**: Adjusts product prices dynamically in response to real-time demand data.
 
