@@ -9,10 +9,6 @@ A cloud-native dynamic pricing engine built with AWS Lambda, API Gateway, and Dy
 - **DynamoDB Storage**: Stores pricing data and demand metrics for quick retrieval and scalability.
 - **Real-Time Pricing**: Adjusts product prices dynamically in response to real-time demand data.
 
-## Architecture Overview
-
-![Architecture Diagram](./architecture-diagram.png)
-
 ## Getting Started
 
 ### Prerequisites
